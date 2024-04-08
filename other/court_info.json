@@ -1,0 +1,1921 @@
+[{
+  "_id": {
+    "$oid": "609c93892e879d6077621754"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "N",
+  "areaDisplay": "New Territories East - North",
+  "address": "155 Jockey Club Road, Sheung Shui, N.T.",
+  "phone": "2673 4433",
+  "venueVal": "53",
+  "venueDisplay": "Lung Sum Avenue Sports Centre",
+  "records": [],
+  "addressChi": "新界上水馬會道155號",
+  "areaDisplayChi": "新界東 - 北區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "龍琛路體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621755"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "N",
+  "areaDisplay": "New Territories East - North",
+  "address": "8 Wo Ming Lane, Fanling N.T.",
+  "phone": "26697057",
+  "venueVal": "54",
+  "venueDisplay": "Wo Hing Sports Centre",
+  "records": [],
+  "addressChi": "新界粉嶺和鳴里8號",
+  "areaDisplayChi": "新界東 - 北區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "和興體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621756"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "N",
+  "areaDisplay": "New Territories East - North",
+  "address": "19 Pak Wo Road, Sheung Shui, N.T.",
+  "phone": "2639 2979",
+  "venueVal": "70000830",
+  "venueDisplay": "Po Wing Road Sports Centre",
+  "records": [],
+  "addressChi": "新界上水百和路19號",
+  "areaDisplayChi": "新界東 - 北區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "保榮路體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621757"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "SK",
+  "areaDisplay": "New Territories East - Sai Kung",
+  "address": "Po Lam Estate, Tseung Kwan O, N.T.",
+  "phone": "2701 5918",
+  "venueVal": "60",
+  "venueDisplay": "Po Lam Sports Centre",
+  "records": [],
+  "addressChi": "新界將軍澳寶林村",
+  "areaDisplayChi": "新界東 - 西貢區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "寶林體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621758"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "SK",
+  "areaDisplay": "New Territories East - Sai Kung",
+  "address": "Tsui Lam Estate, Tseung Kwan O , N.T.",
+  "phone": "2703 1137",
+  "venueVal": "61",
+  "venueDisplay": "Tsui Lam Sports Centre",
+  "records": [],
+  "addressChi": "新界將軍澳翠林村",
+  "areaDisplayChi": "新界東 - 西貢區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "翠林體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621759"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "SK",
+  "areaDisplay": "New Territories East - Sai Kung",
+  "address": "9 Wan Lung Road, Tseung Kwan O, N.T.",
+  "phone": "2701 2317",
+  "venueVal": "94",
+  "venueDisplay": "Tseung Kwan O Sports Centre",
+  "records": [],
+  "addressChi": "新界將軍澳運隆路9號",
+  "areaDisplayChi": "新界東 - 西貢區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "將軍澳體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762175a"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "SK",
+  "areaDisplay": "New Territories East - Sai Kung",
+  "address": "1-3/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O, N.T.",
+  "phone": "2623 5928",
+  "venueVal": "70000734",
+  "venueDisplay": "Hang Hau Sports Centre",
+  "records": [],
+  "addressChi": "新界將軍澳培成路38號西貢將軍澳政府綜合大樓一至三樓",
+  "areaDisplayChi": "新界東 - 西貢區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "坑口體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762175b"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "SK",
+  "areaDisplay": "New Territories East - Sai Kung",
+  "address": "2 Chui Ling Road, Tseung Kwan O, N.T.",
+  "phone": "2481 5033",
+  "venueVal": "70001333",
+  "venueDisplay": "Tiu Keng Leng Sports Centre",
+  "records": [],
+  "addressChi": "新界將軍澳翠嶺路2號",
+  "areaDisplayChi": "新界東 - 西貢區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "調景嶺體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762175c"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "ST",
+  "areaDisplay": "New Territories East - Sha Tin",
+  "address": "4/F., Heng On Commercial Centre, Heng On Estate, Sha Tin, N.T.",
+  "phone": "2642 0203",
+  "venueVal": "67",
+  "venueDisplay": "Heng On Sports Centre",
+  "records": [],
+  "addressChi": "新界沙田恆安邨恆安商場四樓",
+  "areaDisplayChi": "新界東 - 沙田區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "恆安體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762175d"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "ST",
+  "areaDisplay": "New Territories East - Sha Tin",
+  "address": "Hin Keng Commercial Centre, Hin Keng Estate, Sha Tin, N.T.",
+  "phone": "2605 8407",
+  "venueVal": "69",
+  "venueDisplay": "Hin Keng Sports Centre",
+  "records": [],
+  "addressChi": "新界沙田顯徑邨顯徑商場",
+  "areaDisplayChi": "新界東 - 沙田區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "顯徑體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762175e"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "ST",
+  "areaDisplay": "New Territories East - Sha Tin",
+  "address": "Phase 3, Mei Lam Estate, Tai Wai, Sha Tin, N.T.",
+  "phone": "2695 9318/2695 9356",
+  "venueVal": "91",
+  "venueDisplay": "Mei Lam Sports Centre",
+  "records": [],
+  "addressChi": "新界沙田大圍美林邨第三期",
+  "areaDisplayChi": "新界東 - 沙田區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "美林體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762175f"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "ST",
+  "areaDisplay": "New Territories East - Sha Tin",
+  "address": "No.8 Yuen Wo Road, Sha Tin, N.T.",
+  "phone": "2604 5987/2602 4042",
+  "venueVal": "92",
+  "venueDisplay": "Yuen Wo Road Sports Centre",
+  "records": [],
+  "addressChi": "新界沙田源禾路8號",
+  "areaDisplayChi": "新界東 - 沙田區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "源禾路體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621760"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "ST",
+  "areaDisplay": "New Territories East - Sha Tin",
+  "address": "14 On Chun Street , Ma On Shan",
+  "phone": "26311597",
+  "venueVal": "60000514",
+  "venueDisplay": "Ma On Shan Sports Centre",
+  "records": [],
+  "addressChi": "馬鞍山鞍駿街14號",
+  "areaDisplayChi": "新界東 - 沙田區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "馬鞍山體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621761"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "ST",
+  "areaDisplay": "New Territories East - Sha Tin",
+  "address": "35 Ngan Shing Street, Sha Tin, N.T.",
+  "phone": "2509 9108",
+  "venueVal": "70001533",
+  "venueDisplay": "Yuen Chau Kok Sports Centre",
+  "records": [],
+  "addressChi": "新界沙田銀城街35號",
+  "areaDisplayChi": "新界東 - 沙田區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "圓洲角體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621762"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "ST",
+  "areaDisplay": "New Territories East - Sha Tin",
+  "address": "No.10 Sha Tin Tau Road, Sha Tin, New Territories.",
+  "phone": "2790 0221",
+  "venueVal": "70001933",
+  "venueDisplay": "Che Kung Temple Sports Centre",
+  "records": [],
+  "addressChi": "新界沙田沙田頭路10號",
+  "areaDisplayChi": "新界東 - 沙田區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "車公廟體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621763"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TP",
+  "areaDisplay": "New Territories East - Tai Po",
+  "address": "13 Ting Tai Road, Tai Po, N.T.",
+  "phone": "2664 7222",
+  "venueVal": "19",
+  "venueDisplay": "Tai Po Sports Centre",
+  "records": [],
+  "addressChi": "新界大埔汀太路十三號",
+  "areaDisplayChi": "新界東 - 大埔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "大埔體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621764"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TP",
+  "areaDisplay": "New Territories East - Tai Po",
+  "address": "6/F, Multi-Car Park, Fu Shin Estate, Tai Po, N.T.",
+  "phone": "2661 4144",
+  "venueVal": "55",
+  "venueDisplay": "Fu Shin Sports Centre",
+  "records": [],
+  "addressChi": "新界大埔富善邨多層停車場六樓",
+  "areaDisplayChi": "新界東 - 大埔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "富善體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621765"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TP",
+  "areaDisplay": "New Territories East - Tai Po",
+  "address": "Podium Level, Tai Wo Shopping Centre, Tai Po, N.T.",
+  "phone": "2656 3398",
+  "venueVal": "56",
+  "venueDisplay": "Tai Wo Sports Centre",
+  "records": [],
+  "addressChi": "新界大埔太和邨太和商場平台",
+  "areaDisplayChi": "新界東 - 大埔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "太和體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621766"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TP",
+  "areaDisplay": "New Territories East - Tai Po",
+  "address": "1/F, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po, N.T.",
+  "phone": "2665 2753",
+  "venueVal": "57",
+  "venueDisplay": "Fu Heng Sports Centre",
+  "records": [],
+  "addressChi": "新界大埔富亨邨富亨商場一樓",
+  "areaDisplayChi": "新界東 - 大埔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "富亨體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621767"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TP",
+  "areaDisplay": "New Territories East - Tai Po",
+  "address": "6/F, Tai Po Complex, No.8 Heung Sze Wui Street, Tai Po,N.T.",
+  "phone": "31839011",
+  "venueVal": "50000512",
+  "venueDisplay": "Tai Po Hui Sports Centre",
+  "records": [],
+  "addressChi": "大埔鄉事會街八號大埔綜合大樓六樓",
+  "areaDisplayChi": "新界東 - 大埔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "大埔墟體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621768"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "IS",
+  "areaDisplay": "New Territories West - Islands",
+  "address": "Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau",
+  "phone": "2983 1271",
+  "venueVal": "83",
+  "venueDisplay": "Peng Chau Sports Centre",
+  "records": [],
+  "addressChi": "坪洲寶坪街6號坪洲市政大廈",
+  "areaDisplayChi": "新界西 - 離島區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "坪洲體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621769"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "IS",
+  "areaDisplay": "New Territories West - Islands",
+  "address": "3 Cheung Chau Hospital Road, Cheung Chau",
+  "phone": "2981 6285",
+  "venueVal": "84",
+  "venueDisplay": "Cheung Chau Sports Centre",
+  "records": [],
+  "addressChi": "長洲醫院路三號",
+  "areaDisplayChi": "新界西 - 離島區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "長洲體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762176a"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "IS",
+  "areaDisplay": "New Territories West - Islands",
+  "address": "1/F., Mui Wo Municipal Services Building, 9 Ngan Shek Street, Mui Wo, Lantau Island",
+  "phone": "2984 2334",
+  "venueVal": "85",
+  "venueDisplay": "Mui Wo Sports Centre",
+  "records": [],
+  "addressChi": "大嶼山銀石街9號梅窩市政大廈一樓",
+  "areaDisplayChi": "新界西 - 離島區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "梅窩體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762176b"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "IS",
+  "areaDisplay": "New Territories West - Islands",
+  "address": "G/F to 2/F Tung Chung Municipal Services Bldg., 39 Man Tung Road, Tung Chung, N.T.",
+  "phone": "2109 2421",
+  "venueVal": "70000623",
+  "venueDisplay": "Tung Chung Man Tung Road Sports Centre",
+  "records": [],
+  "addressChi": "新界東涌文東路39號東涌市政大樓地下至二樓",
+  "areaDisplayChi": "新界西 - 離島區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "東涌文東路體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762176c"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "176 Hing Fong Road, Kwai Chung, N.T.",
+  "phone": "2422 5610",
+  "venueVal": "23",
+  "venueDisplay": "Osman Ramju Sadick Memorial Sports Centre",
+  "records": [],
+  "addressChi": "新界葵涌興芳路176號",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "林士德體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762176d"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "292 Wo Yi Hop Road, Kwai Chung, N.T.",
+  "phone": "2426 3269",
+  "venueVal": "35",
+  "venueDisplay": "North Kwai Chung Tang Shiu Kin Sports Centre",
+  "records": [],
+  "addressChi": "新界葵涌和宜合路292號",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "北葵涌鄧肇堅體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762176e"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "4/F., Cheung Fat Shopping Centre, Cheung Fat Estate, Tsing Yi, N.T.",
+  "phone": "2433 5886",
+  "venueVal": "36",
+  "venueDisplay": "Cheung Fat Sports Centre",
+  "records": [],
+  "addressChi": "新界青衣長發邨長發商場4樓",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "長發體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762176f"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "10 Fung Shue Wo Road,Phase II, Tsing Yi Estate, Tsing Yi, N.T",
+  "phone": "2433 6523",
+  "venueVal": "37",
+  "venueDisplay": "Fung Shue Wo Sports Centre",
+  "records": [],
+  "addressChi": "新界青衣楓樹窩路10號青衣邨第二期",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "楓樹窩體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621770"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "39 Tai Ha Street, Tai Wo Hau Estate, Kwai Chung, N.T.",
+  "phone": "2920 2011",
+  "venueVal": "38",
+  "venueDisplay": "Tai Wo Hau Sports Centre",
+  "records": [],
+  "addressChi": "新界葵涌大窩口邨大廈街39號",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "大窩口體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621771"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "2/F., Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi, N.T.",
+  "phone": "2495 4631",
+  "venueVal": "40",
+  "venueDisplay": "Tsing Yi Sports Centre",
+  "records": [],
+  "addressChi": "新界青衣青綠街38號青衣市政大廈2樓",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "青衣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621772"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "60 Lai Cho Road, Lai King, Kwai Chung, N.T.",
+  "phone": "2744 5678",
+  "venueVal": "66",
+  "venueDisplay": "Lai King Sports Centre",
+  "records": [],
+  "addressChi": "新界葵涌荔景麗祖路60號",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "荔景體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621773"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "KWT",
+  "areaDisplay": "New Territories West - Kwai Tsing",
+  "address": "70 Chung Mei Road, Tsing Yi, N.T.",
+  "phone": "2341 0102",
+  "venueVal": "70001535",
+  "venueDisplay": "Tsing Yi Southwest Sports Centre",
+  "records": [],
+  "addressChi": "新界青衣涌美路70號",
+  "areaDisplayChi": "新界西 - 葵青區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "青衣西南體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621774"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TM",
+  "areaDisplay": "New Territories West - Tuen Mun",
+  "address": "11 Wu Shan Road, Tuen Mun, N.T.",
+  "phone": "2465 7610",
+  "venueVal": "25",
+  "venueDisplay": "JC Tuen Mun Butterfly Beach Sports Centre",
+  "records": [],
+  "addressChi": "新界屯門湖山路11號",
+  "areaDisplayChi": "新界西 - 屯門區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "賽馬會屯門蝴蝶灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621775"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TM",
+  "areaDisplay": "New Territories West - Tuen Mun",
+  "address": "3 Hing On Lane, Tuen Mun, N.T.",
+  "phone": "2450 8850/2450 8508",
+  "venueVal": "26",
+  "venueDisplay": "Yau Oi Sports Centre",
+  "records": [],
+  "addressChi": "新界屯門興安里3號",
+  "areaDisplayChi": "新界西 - 屯門區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "友愛體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621776"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TM",
+  "areaDisplay": "New Territories West - Tuen Mun",
+  "address": "38 Tsing Chung Koon Road, Tuen Mun, N.T.",
+  "phone": "2463 1260/2463 1248",
+  "venueVal": "72",
+  "venueDisplay": "Tai Hing Sports Centre",
+  "records": [],
+  "addressChi": "新界屯門青松觀路38號",
+  "areaDisplayChi": "新界西 - 屯門區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "大興體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621777"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TM",
+  "areaDisplay": "New Territories West - Tuen Mun",
+  "address": "4/F., CarPark Building, Tin King Estate, Tuen Mun, N.T.",
+  "phone": "2467 1594/2467 1238",
+  "venueVal": "73",
+  "venueDisplay": "Leung Tin Sports Centre",
+  "records": [],
+  "addressChi": "新界屯門田景邨停車場四字樓",
+  "areaDisplayChi": "新界西 - 屯門區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "良田體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621778"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TM",
+  "areaDisplay": "New Territories West - Tuen Mun",
+  "address": "2/F-5/F, 19 Siu Lun Street, Tuen Mun Siu Lun Government Complex, Tuen Mun",
+  "phone": "2659 2311",
+  "venueVal": "70001833",
+  "venueDisplay": "Siu Lun Sports Centre",
+  "records": [],
+  "addressChi": "屯門兆麟街19號屯門兆麟政府綜合大樓2至5樓",
+  "areaDisplayChi": "新界西 - 屯門區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "兆麟體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621779"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TW",
+  "areaDisplay": "New Territories West - Tsuen Wan",
+  "address": "6 Miu Kong Street, Tsuen Wan, N.T.",
+  "phone": "2415 2621",
+  "venueVal": "42",
+  "venueDisplay": "Wai Tsuen Sports Centre",
+  "records": [],
+  "addressChi": "新界荃灣廟崗街六號",
+  "areaDisplayChi": "新界西 - 荃灣區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "蕙荃體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762177a"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TW",
+  "areaDisplay": "New Territories West - Tsuen Wan",
+  "address": "38 Mei Wan Street, Tsuen Wan, N.T.",
+  "phone": "2405 6960",
+  "venueVal": "43",
+  "venueDisplay": "Tsuen King Circuit Sports Centre",
+  "records": [],
+  "addressChi": "新界荃灣美環街38號",
+  "areaDisplayChi": "新界西 - 荃灣區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "荃景圍體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762177b"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TW",
+  "areaDisplay": "New Territories West - Tsuen Wan",
+  "address": "4/F Yeung Uk Road Complex, 45 Yeung Uk Road, Tsuen Wan, N.T.",
+  "phone": "2415 4445",
+  "venueVal": "95",
+  "venueDisplay": "Yeung Uk Road Sports Centre",
+  "records": [],
+  "addressChi": "新界荃灣楊屋道45號楊屋道綜合大樓4樓",
+  "areaDisplayChi": "新界西 - 荃灣區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "楊屋道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762177c"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TW",
+  "areaDisplay": "New Territories West - Tsuen Wan",
+  "address": "68 Hoi On Road, Tsuen Wan, N.T.",
+  "phone": "2412 0904",
+  "venueVal": "96",
+  "venueDisplay": "Tsuen Wan West Sports Centre",
+  "records": [],
+  "addressChi": "新界荃灣海安路68號",
+  "areaDisplayChi": "新界西 - 荃灣區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "荃灣西約體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762177d"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "TW",
+  "areaDisplay": "New Territories West - Tsuen Wan",
+  "address": "53 Wing Shun Street, Tsuen Wan",
+  "phone": "2392 9570",
+  "venueVal": "70001733",
+  "venueDisplay": "Tsuen Wan Sports Centre",
+  "records": [],
+  "addressChi": "荃灣永順街53號",
+  "areaDisplayChi": "新界西 - 荃灣區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "荃灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762177e"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "YL",
+  "areaDisplay": "New Territories West - Yuen Long",
+  "address": "20 Fung Yau North Street, Yuen Long, N.T.",
+  "phone": "2475 2334/2475 0052",
+  "venueVal": "76",
+  "venueDisplay": "Fung Kam Street Sports Centre",
+  "records": [],
+  "addressChi": "新界元朗鳳攸北街二十號",
+  "areaDisplayChi": "新界西 - 元朗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "鳳琴街體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762177f"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "YL",
+  "areaDisplay": "New Territories West - Yuen Long",
+  "address": "Unit 202, 2/F., Long Ping Commercial Centre, Long Ping Estate, Yuen Long, N.T.",
+  "phone": "2475 2404/2475 1444",
+  "venueVal": "77",
+  "venueDisplay": "Long Ping Sports Centre",
+  "records": [],
+  "addressChi": "新界元朗朗屏邨朗屏商場二樓二零二號",
+  "areaDisplayChi": "新界西 - 元朗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "朗屏體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621780"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "YL",
+  "areaDisplay": "New Territories West - Yuen Long",
+  "address": "No.1, Tin Pak Road, Tin Shui Wai, N.T.",
+  "phone": "2446 4778",
+  "venueVal": "87",
+  "venueDisplay": "Tin Shui Wai Sports Centre",
+  "records": [],
+  "addressChi": "新界天水圍天柏路一號",
+  "areaDisplayChi": "新界西 - 元朗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "天水圍體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621781"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "YL",
+  "areaDisplay": "New Territories West - Yuen Long",
+  "address": "No 7, Tin Shui Road, Tin Shui Wai, Yuen Long, N.T.",
+  "phone": "2446 6609",
+  "venueVal": "70000525",
+  "venueDisplay": "Tin Shui Sports Centre",
+  "records": [],
+  "addressChi": "新界元朗天水圍天瑞路7號",
+  "areaDisplayChi": "新界西 - 元朗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "天瑞體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621782"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "YL",
+  "areaDisplay": "New Territories West - Yuen Long",
+  "address": "No.1, Tsui Sing Road, Tin Shui Wai, Yuen Long",
+  "phone": "2350 9455",
+  "venueVal": "70000831",
+  "venueDisplay": "Ping Shan Tin Shui Wai Sports Centre",
+  "records": [],
+  "addressChi": "元朗天水圍聚星路1號",
+  "areaDisplayChi": "新界西 - 元朗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "屏山天水圍體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621783"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "YL",
+  "areaDisplay": "New Territories West - Yuen Long",
+  "address": "63 Tin Shui Road, Tin Shui Wai, N.T.",
+  "phone": "2473 0229",
+  "venueVal": "70000931",
+  "venueDisplay": "Tin Fai Road Sports Centre",
+  "records": [],
+  "addressChi": "新界天水圍天瑞路63號",
+  "areaDisplayChi": "新界西 - 元朗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "天暉路體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621784"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 2,
+  "typeDisplay": "Basketball Court (NT)",
+  "areaVal": "YL",
+  "areaDisplay": "New Territories West - Yuen Long",
+  "address": "3/F, Yuen Long Leisure and Cultural Building, 52 Ma Tin Road, Yuen Long",
+  "phone": "2891 9207",
+  "venueVal": "70001534",
+  "venueDisplay": "Yuen Long Sports Centre",
+  "records": [],
+  "addressChi": "元朗馬田路52號元朗文化康樂大樓3樓",
+  "areaDisplayChi": "新界西 - 元朗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (新界區)",
+  "venueDisplayChi": "元朗體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621785"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 308,
+  "typeDisplay": "Basketball Court (Urban)",
+  "areaVal": "KC",
+  "areaDisplay": "Kowloon - Kowloon City",
+  "address": "9/F, 18 Shepherd Road, Ho Man Tin, Kowloon",
+  "phone": "2712 2652",
+  "venueVal": "223",
+  "venueDisplay": "Fat Kwong Street Sports Centre",
+  "records": [],
+  "addressChi": "九龍何文田牧愛街十八號九樓",
+  "areaDisplayChi": "九龍 - 九龍城區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (市區)",
+  "venueDisplayChi": "佛光街體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621786"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "CW",
+  "areaDisplay": "Hong Kong - Central & Western",
+  "address": "29 Cotton Tree Drive, Queensway, Hong Kong",
+  "phone": "25215072",
+  "venueVal": "204",
+  "venueDisplay": "Hong Kong Park Sports Centre",
+  "records": [],
+  "addressChi": "香港金鐘紅棉道29號",
+  "areaDisplayChi": "香港 - 中西區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "香港公園體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621787"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "CW",
+  "areaDisplay": "Hong Kong - Central & Western",
+  "address": "4/F, Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town",
+  "phone": "28557321",
+  "venueVal": "206",
+  "venueDisplay": "Smithfield Sports Centre",
+  "records": [],
+  "addressChi": "堅尼地城士美非路12K士美非路巿政大廈4樓",
+  "areaDisplayChi": "香港 - 中西區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "士美非路體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621788"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "CW",
+  "areaDisplay": "Hong Kong - Central & Western",
+  "address": "5/F, Shek Tong Tsui Municipal Services Building, 470 Queen's Road West",
+  "phone": "28580541",
+  "venueVal": "207",
+  "venueDisplay": "Shek Tong Tsui Sports Centre",
+  "records": [],
+  "addressChi": "皇后大道西470號石塘咀巿政大廈5樓",
+  "areaDisplayChi": "香港 - 中西區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "石塘咀體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621789"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "CW",
+  "areaDisplay": "Hong Kong - Central & Western",
+  "address": "11/F, Sheung Wan Municipal Services Building, 345 Queen's Road Central",
+  "phone": "2853 2574",
+  "venueVal": "208",
+  "venueDisplay": "Sheung Wan Sports Centre",
+  "records": [],
+  "addressChi": "皇后大道中345號上環巿政大廈11樓",
+  "areaDisplayChi": "香港 - 中西區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "上環體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762178a"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "CW",
+  "areaDisplay": "Hong Kong - Central & Western",
+  "address": "18 Eastern Street North, Sai Ying Pun",
+  "phone": "28582493",
+  "venueVal": "209",
+  "venueDisplay": "Sun Yat Sen Memorial Park Sports Centre",
+  "records": [],
+  "addressChi": "西營盤東邊街北18號",
+  "areaDisplayChi": "香港 - 中西區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "中山紀念公園體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762178b"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "EN",
+  "areaDisplay": "Hong Kong - Eastern",
+  "address": "6, Yee Shun Street, Chai Wan, Hong Kong",
+  "phone": "28979144",
+  "venueVal": "212",
+  "venueDisplay": "Chai Wan Sports Centre",
+  "records": [],
+  "addressChi": "香港柴灣怡順街6號",
+  "areaDisplayChi": "香港 - 東區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "柴灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762178c"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "EN",
+  "areaDisplay": "Hong Kong - Eastern",
+  "address": "No.99, Java Road, 3/F, Java Road Municipal Services Building, North Point.",
+  "phone": "25169415",
+  "venueVal": "213",
+  "venueDisplay": "Java Road Sports Centre",
+  "records": [],
+  "addressChi": "北角渣華道99號渣華道市政大廈3樓",
+  "areaDisplayChi": "香港 - 東區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "渣華道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762178d"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "EN",
+  "areaDisplay": "Hong Kong - Eastern",
+  "address": "6-7/F, 38 Quarry Bay Street, Quarry Bay, Hong Kong",
+  "phone": "25620374",
+  "venueVal": "214",
+  "venueDisplay": "Quarry Bay Sports Centre",
+  "records": [],
+  "addressChi": "香港鰂魚涌街三十八號鰂魚涌市政大廈六至七樓",
+  "areaDisplayChi": "香港 - 東區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "鰂魚涌體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762178e"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "EN",
+  "areaDisplay": "Hong Kong - Eastern",
+  "address": "52, Lei King Road, Sai Wan Ho, Hong Kong",
+  "phone": "2151 4070",
+  "venueVal": "217",
+  "venueDisplay": "Island East Sports Centre",
+  "records": [],
+  "addressChi": "香港西灣河鯉景道52號",
+  "areaDisplayChi": "香港 - 東區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "港島東體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762178f"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "EN",
+  "areaDisplay": "Hong Kong - Eastern",
+  "address": "111 Shaukeiwan Road, Sai Wan Ho, Hong Kong",
+  "phone": "2569 7330",
+  "venueVal": "219",
+  "venueDisplay": "Sai Wan Ho Sports Centre",
+  "records": [],
+  "addressChi": "香港西灣河筲箕灣道111號",
+  "areaDisplayChi": "香港 - 東區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "西灣河體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621790"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "EN",
+  "areaDisplay": "Hong Kong - Eastern",
+  "address": "2/F., Siu Sai Wan Complex, 15 Siu Sai Wan Road, Siu Sai Wan, Hong Kong.",
+  "phone": "3427 3121",
+  "venueVal": "70000727",
+  "venueDisplay": "Siu Sai Wan Sports Centre",
+  "records": [],
+  "addressChi": "香港小西灣道15號 小西灣綜合大樓 2 樓",
+  "areaDisplayChi": "香港 - 東區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "小西灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621791"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SN",
+  "areaDisplay": "Hong Kong - Southern",
+  "address": "1/F to 4/F, Ap Lei Chau Municipal Services Building, No. 8 Hung Shing Street, Ap Lei Chau, HK",
+  "phone": "2554 0832",
+  "venueVal": "200",
+  "venueDisplay": "Ap Lei Chau Sports Centre",
+  "records": [],
+  "addressChi": "香港鴨脷洲洪聖街8號鴨脷洲市政大廈1樓至4樓",
+  "areaDisplayChi": "香港 - 南區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "鴨脷洲體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621792"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SN",
+  "areaDisplay": "Hong Kong - Southern",
+  "address": "168 Wong Chuk Hang Road, Aberdeen, HK",
+  "phone": "25536663",
+  "venueVal": "273",
+  "venueDisplay": "Wong Chuk Hang Sports Centre",
+  "records": [],
+  "addressChi": "香港香港仔黃竹坑道168號",
+  "areaDisplayChi": "香港 - 南區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "黃竹坑體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621793"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SN",
+  "areaDisplay": "Hong Kong - Southern",
+  "address": "6/F Aberdeen Municipal Services Building, 203 Aberdeen Main Road, HK",
+  "phone": "25558909",
+  "venueVal": "274",
+  "venueDisplay": "Aberdeen Sports Centre",
+  "records": [],
+  "addressChi": "香港香港仔大道203號香港仔市政大廈6樓",
+  "areaDisplayChi": "香港 - 南區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "香港仔體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621794"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SN",
+  "areaDisplay": "Hong Kong - Southern",
+  "address": "43 Yue Kwong Road, Aberdeen, HK",
+  "phone": "2554 9132",
+  "venueVal": "278",
+  "venueDisplay": "Yue Kwong Road Sports Centre",
+  "records": [],
+  "addressChi": "香港香港仔漁光道43號",
+  "areaDisplayChi": "香港 - 南區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "漁光道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621795"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SN",
+  "areaDisplay": "Hong Kong - Southern",
+  "address": "6 Stanley Market Road, U/G",
+  "phone": "2813 5106",
+  "venueVal": "70000522",
+  "venueDisplay": "Stanley Sports Centre",
+  "records": [],
+  "addressChi": "赤柱市場道 6 號",
+  "areaDisplayChi": "香港 - 南區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "赤柱體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621796"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WCH",
+  "areaDisplay": "Hong Kong - Wan Chai",
+  "address": "27 Harbour Road, HK",
+  "phone": "28279684",
+  "venueVal": "300",
+  "venueDisplay": "Harbour Road Sports Centre",
+  "records": [],
+  "addressChi": "香港港灣道27號",
+  "areaDisplayChi": "香港 - 灣仔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "港灣道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621797"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WCH",
+  "areaDisplay": "Hong Kong - Wan Chai",
+  "address": "10/F, Lockhart Road Municipal Services Building, 225 Hennessy Road, Wan Chai, HK",
+  "phone": "28795521",
+  "venueVal": "302",
+  "venueDisplay": "Lockhart Road Sports Centre",
+  "records": [],
+  "addressChi": "香港灣仔軒尼詩道 225 號駱克道市政大廈十樓",
+  "areaDisplayChi": "香港 - 灣仔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "駱克道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621798"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WCH",
+  "areaDisplay": "Hong Kong - Wan Chai",
+  "address": "4/F, Wong Nai Chung Compex , 2 Yuk Sau Street, Happy Valley, HK",
+  "phone": "2891 8438",
+  "venueVal": "304",
+  "venueDisplay": "Wong Nai Chung Sports Centre",
+  "records": [],
+  "addressChi": "香港跑馬地毓秀街 2 號黃泥涌市政大廈4字樓",
+  "areaDisplayChi": "香港 - 灣仔區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "黃泥涌體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d6077621799"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KC",
+  "areaDisplay": "Kowloon - Kowloon City",
+  "address": "3-5/F,Hung Hom Municipal Services Building,11 Ma Tau Wai Road, Kowloon",
+  "phone": "2765 0586",
+  "venueVal": "224",
+  "venueDisplay": "Hung Hom Municipal Services Building Sports Centre",
+  "records": [],
+  "addressChi": "九龍紅磡馬頭圍道 11 號 紅磡市政大廈3-5 樓",
+  "areaDisplayChi": "九龍 - 九龍城區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "紅磡市政大廈體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762179a"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KC",
+  "areaDisplay": "Kowloon - Kowloon City",
+  "address": "3/F, Kowloon City Municipal Services Building, 100 Nga Tsin Wai Rd, Kowloon City, Kowloon",
+  "phone": "2716 1007",
+  "venueVal": "228",
+  "venueDisplay": "Kowloon City Sports Centre",
+  "records": [],
+  "addressChi": "九龍九龍城衙前圍道一零零號九龍城市政大廈三樓",
+  "areaDisplayChi": "九龍 - 九龍城區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "九龍城體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762179b"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KC",
+  "areaDisplay": "Kowloon - Kowloon City",
+  "address": "66 Ha Heung Road, To Kwa Wan, Kowloon",
+  "phone": "2364 9285",
+  "venueVal": "233",
+  "venueDisplay": "To Kwa Wan Sports Centre",
+  "records": [],
+  "addressChi": "九龍土瓜灣下鄉道六十六號",
+  "areaDisplayChi": "九龍 - 九龍城區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "土瓜灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762179c"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "Top Floor, Lok Nga Court Carpark, No.50 Chun Wah Rd.,Ngau Tau Kok, Kowloon",
+  "phone": "2318 1767",
+  "venueVal": "279",
+  "venueDisplay": "Chun Wah Road Sports Centre",
+  "records": [],
+  "addressChi": "九龍牛頭角振華道50號樂雅苑停車場頂樓",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "振華道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762179d"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "2 Hiu Kwong Street, Kwun Tong, Kowloon",
+  "phone": "2347 0384",
+  "venueVal": "281",
+  "venueDisplay": "Hiu Kwong Street Sports Centre",
+  "records": [],
+  "addressChi": "九龍觀塘曉光街2號",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "曉光街體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762179e"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "15 Kai Lok Street, Kowloon Bay, Kowloon",
+  "phone": "2750 9539",
+  "venueVal": "284",
+  "venueDisplay": "Kowloon Bay Sports Centre",
+  "records": [],
+  "addressChi": "九龍九龍灣啟樂街15號",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "九龍灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d607762179f"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "170 Pik Wan Road, Lam Tin, Kowloon",
+  "phone": "2379 9254",
+  "venueVal": "287",
+  "venueDisplay": "Lam Tin South Sports Centre",
+  "records": [],
+  "addressChi": "九龍藍田碧雲道170號",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "藍田南體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a0"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "3/F-4/F, Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Kowloon",
+  "phone": "2756 3466",
+  "venueVal": "288",
+  "venueDisplay": "Ngau Tau Kok Road Sports Centre",
+  "records": [],
+  "addressChi": "九龍牛頭角道183 號牛頭角市政大廈3-4樓",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "牛頭角道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a1"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "2/F-5/F, Lei Yue Mun Municipal Services Building, 6 Lei Yue Mun Path, Yau Tong, Kowloon",
+  "phone": "2349 3954",
+  "venueVal": "291",
+  "venueDisplay": "Lei Yue Mun Sports Centre",
+  "records": [],
+  "addressChi": "九龍油塘鯉魚門徑6號鯉魚門市政大廈2-5樓",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "鯉魚門體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a2"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "No. 33, Shun Lee Tsuen Road, Kwun Tong, Kowloon",
+  "phone": "2951 4136",
+  "venueVal": "292",
+  "venueDisplay": "Shun Lee Tsuen Sports Centre",
+  "records": [],
+  "addressChi": "九龍觀塘順利村道33號",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "順利邨體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a3"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "KT",
+  "areaDisplay": "Kowloon - Kwun Tong",
+  "address": "8/F-9/F, Shui Wo Street Municipal Services Building, 9 Shui Wo Street, Kwun Tong, Kowloon",
+  "phone": "2797 3350",
+  "venueVal": "293",
+  "venueDisplay": "Shui Wo Street Sports Centre",
+  "records": [],
+  "addressChi": "九龍觀塘瑞和街9號瑞和街市政大廈8-9樓",
+  "areaDisplayChi": "九龍 - 觀塘區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "瑞和街體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a4"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SSP",
+  "areaDisplay": "Kowloon - Sham Shui Po",
+  "address": "Hing Wah Street & Cheung Sha Wan Road, Kowloon",
+  "phone": "27417287",
+  "venueVal": "259",
+  "venueDisplay": "Cheung Sha Wan Sports Centre",
+  "records": [],
+  "addressChi": "九龍興華街與長沙灣道交界",
+  "areaDisplayChi": "九龍 - 深水埗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "長沙灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a5"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SSP",
+  "areaDisplay": "Kowloon - Sham Shui Po",
+  "address": "No. 1 Lai Wan Road, Kowloon",
+  "phone": "27452796",
+  "venueVal": "261",
+  "venueDisplay": "Lai Chi Kok Park Sports Centre",
+  "records": [],
+  "addressChi": "九龍荔枝角荔灣道一號",
+  "areaDisplayChi": "九龍 - 深水埗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "荔枝角公園體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a6"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SSP",
+  "areaDisplay": "Kowloon - Sham Shui Po",
+  "address": "5-U6/F Pei Ho Street Complex 333 Ki Lung Street, Sham Shui Po",
+  "phone": "27291010",
+  "venueVal": "263",
+  "venueDisplay": "Pei Ho Street Sports Centre",
+  "records": [],
+  "addressChi": "九龍深水埗基隆街333號北河街市政大廈五至U六樓",
+  "areaDisplayChi": "九龍 - 深水埗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "北河街體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a7"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SSP",
+  "areaDisplay": "Kowloon - Sham Shui Po",
+  "address": "1/F & 2/F, Po On Road Complex, 325-329 Po On Road, Sham Shui Po, Kowloon",
+  "phone": "27294237",
+  "venueVal": "264",
+  "venueDisplay": "Po On Road Sports Centre",
+  "records": [],
+  "addressChi": "九龍深水埗保安道325-329號保安道市政大廈1至2樓",
+  "areaDisplayChi": "九龍 - 深水埗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "保安道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a8"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "SSP",
+  "areaDisplay": "Kowloon - Sham Shui Po",
+  "address": "290 Nam Cheong Street, Shek Kip Mei, Sham Shui Po, Kowloon",
+  "phone": "2784 7424",
+  "venueVal": "266",
+  "venueDisplay": "Shek Kip Mei Park Sports Centre",
+  "records": [],
+  "addressChi": "九龍深水埗石硤尾南昌街290號",
+  "areaDisplayChi": "九龍 - 深水埗區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "石硤尾公園體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217a9"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WTS",
+  "areaDisplay": "Kowloon - Wong Tai Sin",
+  "address": "150 Choi Hung Road, Wong Tai Sin, Kowloon",
+  "phone": "23262714",
+  "venueVal": "245",
+  "venueDisplay": "Choi Hung Road Sports Centre",
+  "records": [],
+  "addressChi": "九龍黃大仙彩虹道150號",
+  "areaDisplayChi": "九龍 - 黃大仙區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "彩虹道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217aa"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WTS",
+  "areaDisplay": "Kowloon - Wong Tai Sin",
+  "address": "Chuk Yuen Road, Chuk Yuen North Estate, Wong Tai Sin, Kowloon",
+  "phone": "23243960",
+  "venueVal": "246",
+  "venueDisplay": "Chuk Yuen Sports Centre",
+  "records": [],
+  "addressChi": "九龍黃大仙竹園道竹園北邨",
+  "areaDisplayChi": "九龍 - 黃大仙區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "竹園體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217ab"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WTS",
+  "areaDisplay": "Kowloon - Wong Tai Sin",
+  "address": "30 Luk Hop Street, San Po Kong, Kowloon",
+  "phone": "23269940",
+  "venueVal": "248",
+  "venueDisplay": "Kai Tak East Sports Centre",
+  "records": [],
+  "addressChi": "九龍新蒲崗六合道30號",
+  "areaDisplayChi": "九龍 - 黃大仙區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "東啟德體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217ac"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WTS",
+  "areaDisplay": "Kowloon - Wong Tai Sin",
+  "address": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+  "phone": "23262207",
+  "venueVal": "254",
+  "venueDisplay": "Morse Park Sports Centre",
+  "records": [],
+  "addressChi": "九龍黃大仙鳳舞街40號",
+  "areaDisplayChi": "九龍 - 黃大仙區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "摩士公園體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217ad"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WTS",
+  "areaDisplay": "Kowloon - Wong Tai Sin",
+  "address": "1/F, Nagu Chi Wan Market, 11 Clear Water Bay Road, Wong Tai Sin, Kowloon",
+  "phone": "23274915",
+  "venueVal": "256",
+  "venueDisplay": "Ngau Chi Wan Sports Centre",
+  "records": [],
+  "addressChi": "九龍黃大仙清水灣道11號牛池灣街市1字樓",
+  "areaDisplayChi": "九龍 - 黃大仙區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "牛池灣體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217ae"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "WTS",
+  "areaDisplay": "Kowloon - Wong Tai Sin",
+  "address": "120 Po Kong Village Road, Wong Tai Sin, Kowloon",
+  "phone": "23253585",
+  "venueVal": "257",
+  "venueDisplay": "Po Kong Village Road Sports Centre",
+  "records": [],
+  "addressChi": "黃大仙蒲崗村道120號",
+  "areaDisplayChi": "九龍 - 黃大仙區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "蒲崗村道體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217af"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "YTM",
+  "areaDisplay": "Kowloon - Yau Tsim Mong",
+  "address": "200 Sai Yee Street, Mong Kok, Kowloon",
+  "phone": "2380 9751",
+  "venueVal": "239",
+  "venueDisplay": "Boundary Street Sports Centre",
+  "records": [],
+  "addressChi": "九龍旺角洗衣街200號",
+  "areaDisplayChi": "九龍 - 油尖旺區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "界限街體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217b0"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "YTM",
+  "areaDisplay": "Kowloon - Yau Tsim Mong",
+  "address": "10-13/F Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mongkok",
+  "phone": "23951501",
+  "venueVal": "241",
+  "venueDisplay": "Fa Yuen Street Sports Centre",
+  "records": [],
+  "addressChi": "旺角花園街123A號花園街市政大廈10-13樓",
+  "areaDisplayChi": "九龍 - 油尖旺區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "花園街體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217b1"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "YTM",
+  "areaDisplay": "Kowloon - Yau Tsim Mong",
+  "address": "5-6/F, Kwun Chung Municipal Services Building, 17 Bowring Street, Jordan, Kowloon",
+  "phone": "23021275",
+  "venueVal": "305",
+  "venueDisplay": "Kwun Chung Sports Centre",
+  "records": [],
+  "addressChi": "九龍寶靈街17號，官涌市政大廈5-6樓",
+  "areaDisplayChi": "九龍 - 油尖旺區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "官涌體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217b2"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "YTM",
+  "areaDisplay": "Kowloon - Yau Tsim Mong",
+  "address": "22 Austin Road, Tsim Sha Tsui, Kowloon",
+  "phone": "2724 3120",
+  "venueVal": "307",
+  "venueDisplay": "Kowloon Park Sports Centre",
+  "records": [],
+  "addressChi": "九龍尖沙咀柯士甸道22號",
+  "areaDisplayChi": "九龍 - 油尖旺區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "九龍公園體育館"
+},{
+  "_id": {
+    "$oid": "609c93892e879d60776217b3"
+  },
+  "facilityVal": 2,
+  "facilityDisplay": "Basketball Court",
+  "typeVal": 505,
+  "typeDisplay": "Basketball Court (A/C)(Urban)",
+  "areaVal": "YTM",
+  "areaDisplay": "Kowloon - Yau Tsim Mong",
+  "address": "5-7/F., Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui, Kowloon",
+  "phone": "2393 1084",
+  "venueVal": "70000521",
+  "venueDisplay": "Tai Kok Tsui Sports Centre",
+  "records": [],
+  "addressChi": "九龍大角咀福全街63號大角咀市政大廈5樓至7樓",
+  "areaDisplayChi": "九龍 - 油尖旺區",
+  "facilityDisplayChi": "籃球場",
+  "typeDisplayChi": "籃球場 (空調)(市區)",
+  "venueDisplayChi": "大角咀體育館"
+}]

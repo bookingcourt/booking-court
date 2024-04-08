@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "5ed5feda5c335d599b8a9420"
+  },
+  "code": "N",
+  "eng": "North",
+  "chi": "北區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTE"
+},{
+  "_id": {
+    "$oid": "5ed5ff985c335d599b8a9421"
+  },
+  "code": "SK",
+  "eng": "Sai Kung",
+  "chi": "西貢區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTE"
+},{
+  "_id": {
+    "$oid": "5ed5ffca5c335d599b8a9422"
+  },
+  "code": "ST",
+  "eng": "Sha Tin",
+  "chi": "沙田區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTE"
+},{
+  "_id": {
+    "$oid": "5ed5ffe25c335d599b8a9423"
+  },
+  "code": "TP",
+  "eng": "Tai Po",
+  "chi": "大埔區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTE"
+},{
+  "_id": {
+    "$oid": "5ed5fffe5c335d599b8a9424"
+  },
+  "code": "IS",
+  "eng": "Islands",
+  "chi": "離島區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTW"
+},{
+  "_id": {
+    "$oid": "5ed600325c335d599b8a9425"
+  },
+  "code": "KWT",
+  "eng": "Kwai Tsing",
+  "chi": "葵青區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTW"
+},{
+  "_id": {
+    "$oid": "5ed600555c335d599b8a9426"
+  },
+  "code": "TM",
+  "eng": "Tuen Mun",
+  "chi": "屯門區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTW"
+},{
+  "_id": {
+    "$oid": "5ed600665c335d599b8a9427"
+  },
+  "code": "TW",
+  "eng": "Tsuen Wan",
+  "chi": "荃灣區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTW"
+},{
+  "_id": {
+    "$oid": "5ed600895c335d599b8a9428"
+  },
+  "code": "YL",
+  "eng": "Yuen Long",
+  "chi": "元朗區",
+  "area": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "subArea": "NTW"
+},{
+  "_id": {
+    "$oid": "5ed600a55c335d599b8a9429"
+  },
+  "code": "CW",
+  "eng": "Central & Western",
+  "chi": "中西區",
+  "area": {
+    "$oid": "5ed5fdc65c335d599b8a941f"
+  }
+},{
+  "_id": {
+    "$oid": "5ed600bd5c335d599b8a942a"
+  },
+  "code": "EN",
+  "eng": "Eastern",
+  "chi": "東區",
+  "area": {
+    "$oid": "5ed5fdc65c335d599b8a941f"
+  }
+},{
+  "_id": {
+    "$oid": "5ed600d15c335d599b8a942b"
+  },
+  "code": "SN",
+  "eng": "Southern",
+  "chi": "南區",
+  "area": {
+    "$oid": "5ed5fdc65c335d599b8a941f"
+  }
+},{
+  "_id": {
+    "$oid": "5ed600ec5c335d599b8a942c"
+  },
+  "code": "WCH",
+  "eng": "Wan Chai",
+  "chi": "灣仔區",
+  "area": {
+    "$oid": "5ed5fdc65c335d599b8a941f"
+  }
+},{
+  "_id": {
+    "$oid": "5ed601015c335d599b8a942d"
+  },
+  "code": "KC",
+  "eng": "Kowloon City",
+  "chi": "九龍城區",
+  "area": {
+    "$oid": "5ed5fa835c335d599b8a941e"
+  }
+},{
+  "_id": {
+    "$oid": "5ed601155c335d599b8a942e"
+  },
+  "code": "KT",
+  "eng": "Kwun Tong",
+  "chi": "觀塘區",
+  "area": {
+    "$oid": "5ed5fa835c335d599b8a941e"
+  }
+},{
+  "_id": {
+    "$oid": "5ed601285c335d599b8a942f"
+  },
+  "code": "SSP",
+  "eng": "Sham Shui Po",
+  "chi": "深水埗區",
+  "area": {
+    "$oid": "5ed5fa835c335d599b8a941e"
+  }
+},{
+  "_id": {
+    "$oid": "5ed601405c335d599b8a9430"
+  },
+  "code": "WTS",
+  "eng": "Wong Tai Sin",
+  "chi": "黃大仙區",
+  "area": {
+    "$oid": "5ed5fa835c335d599b8a941e"
+  }
+},{
+  "_id": {
+    "$oid": "5ed601525c335d599b8a9431"
+  },
+  "code": "YTM",
+  "eng": "Yau Tsim Mong",
+  "chi": "油尖旺區",
+  "area": {
+    "$oid": "5ed5fa835c335d599b8a941e"
+  }
+}]

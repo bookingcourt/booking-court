@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "5ed5f89c5c335d599b8a941d"
+  },
+  "code": "NT",
+  "area": "New Territories",
+  "areaChi": "新界",
+  "districts": [
+    {
+      "$oid": "5ed5feda5c335d599b8a9420"
+    },
+    {
+      "$oid": "5ed5ff985c335d599b8a9421"
+    },
+    {
+      "$oid": "5ed5ffca5c335d599b8a9422"
+    },
+    {
+      "$oid": "5ed5ffe25c335d599b8a9423"
+    },
+    {
+      "$oid": "5ed5fffe5c335d599b8a9424"
+    },
+    {
+      "$oid": "5ed600325c335d599b8a9425"
+    },
+    {
+      "$oid": "5ed600555c335d599b8a9426"
+    },
+    {
+      "$oid": "5ed600665c335d599b8a9427"
+    },
+    {
+      "$oid": "5ed600895c335d599b8a9428"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ed5fa835c335d599b8a941e"
+  },
+  "code": "KLN",
+  "area": "Kowloon",
+  "areaChi": "九龍",
+  "districts": [
+    {
+      "$oid": "5ed601015c335d599b8a942d"
+    },
+    {
+      "$oid": "5ed601155c335d599b8a942e"
+    },
+    {
+      "$oid": "5ed601285c335d599b8a942f"
+    },
+    {
+      "$oid": "5ed601405c335d599b8a9430"
+    },
+    {
+      "$oid": "5ed601525c335d599b8a9431"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ed5fdc65c335d599b8a941f"
+  },
+  "code": "HK",
+  "area": "Hong Kong",
+  "areaChi": "香港",
+  "districts": [
+    {
+      "$oid": "5ed600a55c335d599b8a9429"
+    },
+    {
+      "$oid": "5ed600bd5c335d599b8a942a"
+    },
+    {
+      "$oid": "5ed600d15c335d599b8a942b"
+    },
+    {
+      "$oid": "5ed600ec5c335d599b8a942c"
+    }
+  ]
+}]
